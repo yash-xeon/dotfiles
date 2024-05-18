@@ -1,3 +1,3 @@
-# i3-config
-My i3 window manager config files.
+# dotfiles configs
+My window manager and other customisation config files.
 
