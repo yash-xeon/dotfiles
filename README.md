@@ -1,3 +1,3 @@
 # dotfiles configs
-My window manager and other customisation config files.
+My dynamic window manager(DWM) and other customisation config files.
 
