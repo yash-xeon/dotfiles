@@ -18,7 +18,6 @@
 >> `sudo make clean install`
 >Repeat this with st and dmenu directory too.
 
-
 #AdditionConfigs(Optional)
 
 Then we have picom and desktop.dwm configs.(These can be found in /config-files in repo)
