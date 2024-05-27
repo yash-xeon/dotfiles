@@ -2,9 +2,9 @@
 
 >DWM Packages-
    <ul> 
-     <li>  [dwm] (https://dwm.suckless.org/)</li> 
-      <li> [st] (https://st.suckless.org/) </li>
-      <li> [dmenu] (https://tools.suckless.org/dmenu/) </li>  
+     <li>  [dwm](https://dwm.suckless.org/)</li> 
+      <li> [st](https://st.suckless.org/) </li>
+      <li> [dmenu](https://tools.suckless.org/dmenu/) </li>  
        </ul>
 
 >Addition Packages(Optional)-
