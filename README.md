@@ -22,6 +22,7 @@
 
 Then we have picom and desktop.dwm configs.(These can be found in /config-files in repo)
 >Paste **picom.conf** to `/etc/xgd/`
+
 >Copy-Paste **dwm.desktop** to `/usr/share/xsessions/`
 
 >Archived version fonts are available in fonts folder.
