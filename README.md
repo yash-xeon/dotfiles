@@ -6,14 +6,16 @@
       <li> [st] (https://st.suckless.org/) </li>
       <li> [dmenu] (https://tools.suckless.org/dmenu/) </li>  
        </ul>
+
 >Addition Packages(Optional)-
 <ul>
 <li>picom</li> 
 <li>ttf-ubuntu-font-family</li> 
 <li>adobe-source-code-pro-fonts</li> 
 </ul>
+
 >Clone this repository and then change directory to dwm and follow this command
->> `[username@user dwm]$ sudo make clean install`
+>> `sudo make clean install`
 >Repeat this with st and dmenu directory too.
 
 
