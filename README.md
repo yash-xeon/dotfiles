@@ -26,7 +26,7 @@ Then we have picom and desktop.dwm configs.(These can be found in /config-files 
 >Copy-Paste **dwm.desktop** to `/usr/share/xsessions/`
 
 >Archived version fonts are available in fonts folder.
->Icon pack and cursor pack is avaiable in icons folder.
+>Icon pack and cursor pack is available in icons folder.
 
 
 ```[yash-xeon@github /]$ And yea thats it. Thanks for reading ;)```
